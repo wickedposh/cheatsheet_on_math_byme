@@ -8,3 +8,8 @@
 *.tex
 *.bbl
 *.blg
+
+# local working folders (the flat PDFs at top level are the tracked repo)
+cft-textbook/
+rep-theory-textbook/
+topology-textbook/
