@@ -1,0 +1,16 @@
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.bcf
+*.run.xml
+*.tex
+*.bbl
+*.blg
+
+# local working folders (the flat PDFs at top level are the tracked repo)
+cft-textbook/
+rep-theory-textbook/
+topology-textbook/
+stochastic-calculus/
